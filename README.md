@@ -28,4 +28,5 @@ For deployment on platforms like Render, ensure to configure the build scripts i
 ## Contributing
 Contributions are welcome. Please open an issue first to discuss what you would like to change.
 
-
+## Photos
+![Alt text](image.png)
